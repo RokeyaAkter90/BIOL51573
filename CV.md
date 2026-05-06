@@ -129,7 +129,7 @@ Arkansas, USA
 | Year | Award |
 |------|-------|
 | 2026 | GSIE Travel Grant — Graduate School and International Education, University of Arkansas |
-| 2014 | President Gold Medal — Highest academic award in Bangladesh (awarded by the President of Bangladesh) |
+| 2014 | President Gold Medal — Highest academic award in Bangladesh |
 | 2014–2015 | National Science and Technology (NST) Fellowship — Ministry of Science and Technology, Bangladesh (M.S. thesis research) |
 | 2014 | Outstanding Academic Performance Award — Department of Microbiology, Jahangirnagar University |
 | 2013 | University Stipend — Government of Bangladesh (for outstanding B.S. results) |
