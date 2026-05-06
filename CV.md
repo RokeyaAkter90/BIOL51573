@@ -75,7 +75,7 @@ Arkansas, USA
 - Conducted microbiological and molecular assays to characterize STEC virulence and contributed to data analysis in support of food safety research objectives.
 
 **Research Fellow — Enteric and Food Microbiology Lab** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *February 2014 – February 2016*  
-*International Centre for Diarrhoeal Disease Research, Bangladesh (ICDDR,B) — Dhaka, Bangladesh*
+*International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b) — Dhaka, Bangladesh*
 - Investigated the molecular profile and gene organization of pathogenicity islands in toxigenic *Vibrio cholerae* isolated in Bangladesh (2011–2014), funded by the National Science and Technology (NST) Fellowship.
 - Performed antibiotic susceptibility testing and molecular detection of key virulence genes in the Vibrio pathogenicity island using PCR and Sanger sequencing.
 - Collected and processed clinical and environmental samples, gaining early grounding in rigorous laboratory practice and data documentation that continues to inform current computational research.
@@ -87,7 +87,7 @@ Arkansas, USA
 **Sanitation Supervisor** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *April 2022 – May 2024*  
 *ProTab Laboratories — Foothill Ranch, CA*
 - Grew from a bench scientist into a QA management role, taking full ownership of documentation systems, sanitation personnel, and multi-standard regulatory compliance across the facility.
-- Managed all sanitation staff including scheduling, training, and performance oversight, ensuring consistent SOP execution in a cGMP environment.
+- Managed all sanitation staff, including scheduling, training, and performance oversight, ensuring consistent SOP execution in a cGMP environment.
 - Maintained QA documentation systems covering sanitation records, incoming materials profiles, customer complaint records, and finished product release documentation.
 - Led product recall investigations, tracing complete documentation chains from finished product shipment back through production to raw material receiving.
 - Led the label verification program, reviewing all product labels, batch records, and test reports for compliance with FDA dietary supplement labeling regulations (21 CFR 101.36).
@@ -112,15 +112,15 @@ Arkansas, USA
 
 ## TECHNICAL SKILLS
 
-**Statistical Analysis & Data Science:** R (statistical modeling, data wrangling, visualization), biostatistics, exploratory data analysis, machine learning foundations, Google Data Analytics
+**Statistical Analysis & Data Science:** R (statistical modeling, data wrangling, visualization), biostatistics, exploratory data analysis, machine learning foundations, Deep Learning, Google Data Analytics
 
 **Bioinformatics & Computational Genomics:** Chromosome-scale genome assembly, genome annotation, gene family evolution analysis, phylogenetics, deep learning for evolutionary inference, molecular detection (PCR, DNA extraction, gel electrophoresis)
 
-**Computational Tools & Software:** R/RStudio, Python, Bash, Git/GitHub, SLURM/HPCC (University of Arkansas), Tableau, Adobe Illustrator, BioRender, Sage 100
+**Computational Tools & Software:** R/RStudio, Python, Bash, Git/GitHub, SLURM/HPCC (University of Arkansas), Tableau, Adobe Illustrator, BioRender
 
 **Laboratory & Analytical Instrumentation:** FT-IR, HPLC, microbiological testing (pathogen detection), antibiotic susceptibility testing, water testing, environmental sample collection and processing
 
-**Quality & Regulatory (Industry Background):** QA/QC, HACCP, cGMP (21 CFR Part 111), ISO 22000, FSSC 22000, FDA compliance, CAPA management, internal and third-party audits
+**Quality & Regulatory (Industry Background):** QA/QC, HACCP, cGMP (21 CFR Part 111), ISO 22000, FSSC 22000, FDA compliance, CAPA management, internal and third-party audits, SAGE 100
 
 ---
 
